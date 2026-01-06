@@ -40,6 +40,7 @@
 |-------|------------|-------|
 | [economy-etl](https://github.com/DE7-Team8-8bit/economy-etl) | 경제 지표 및 데이터 파이프라인 구축 | Airflow, Snowflake |
 | [Economy-Data-Pipeline](https://github.com/dongyi97/Economy-Data-Pipeline) | 경제 지표 및 데이터 파이프라인 구축과 확장 | Airflow, Snowflake, Slack |
+| [Mabi-Auction](https://github.com/Team-8-Mabinogi-Auction/Mabi-Auction) | 게임 마비노기 데이터를 이용한 경매장 시세정보 및  이상탐지 | Kafka, Django, Airflow |
 
 
 <!--
