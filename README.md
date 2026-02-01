@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<h1>Data Engineer</h1>
+<h1>Software Data Engineer</h1>
 
-데이터 엔지니어를 목표로 학습하며 다양한 데이터 파이프라인 프로젝트를 진행하고 있습니다.  
-안정적인 데이터 흐름을 만드는 데 관심이 많습니다.
+소프트웨어 엔지니어를 목표로 학습하며 다양한 프로젝트를 진행하고 있습니다.  
+특히 데이터에 관심이 많습니다.
 
 </div>
 
@@ -38,9 +38,10 @@
 
 | Project | Description | Stack |
 |-------|------------|-------|
+|[fin-stream-rag](https://github.com/dongyi97/fin-stream-rag) | 가상자산 스트리밍 데이터 + RAG 기반 챗봇 | Kafka, FastAPI, Airflow, RAG |
 | [economy-etl](https://github.com/DE7-Team8-8bit/economy-etl) | 경제 지표 및 데이터 파이프라인 구축 | Airflow, Snowflake |
 | [Economy-Data-Pipeline](https://github.com/dongyi97/Economy-Data-Pipeline) | 경제 지표 및 데이터 파이프라인 구축과 확장 | Airflow, Snowflake, Slack |
-| [Mabi-Auction](https://github.com/Team-8-Mabinogi-Auction/Mabi-Auction) | 게임 마비노기 데이터를 이용한 경매장 시세정보 및  이상탐지 | Kafka, Django, Airflow |
+| [Mabi-Auction](https://github.com/Team-8-Mabinogi-Auction/Mabi-Auction) | 게임 마비노기 데이터를 이용한 경매장 시세정보 및 이상탐지 | Kafka, Django, Airflow |
 
 
 <!--
