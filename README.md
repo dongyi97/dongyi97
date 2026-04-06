@@ -34,6 +34,12 @@
   <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />&nbsp
 </div>
 
+## 📌 Projects Portfolio PDF
+
+[Portfolio.pdf](https://github.com/user-attachments/files/26513196/Portfolio.pdf)
+
+
+
 ## 📌 Projects
 
 | Project | Description | Stack |
