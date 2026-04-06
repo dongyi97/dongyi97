@@ -36,7 +36,8 @@
 
 ## 📌 Projects Portfolio PDF
 
-[Portfolio.pdf](https://github.com/user-attachments/files/26513196/Portfolio.pdf)
+[Portfolio.pdf](https://github.com/user-attachments/files/26513320/Portfolio.pdf)
+
 
 
 
